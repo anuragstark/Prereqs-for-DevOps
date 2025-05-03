@@ -30,7 +30,7 @@ This script installs the following DevOps tools:
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/devops-installer.git
+   git clone https://github.com/anuragstark/Prereqs-for-DevOps.git
    cd devops-installer
    ```
 
@@ -93,9 +93,6 @@ You can modify the script to:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## ⚠️ Disclaimer
 
